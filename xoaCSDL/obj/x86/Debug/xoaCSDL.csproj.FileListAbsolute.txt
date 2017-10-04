@@ -1,0 +1,9 @@
+D:\xoaCSDL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\xoaCSDL\obj\x86\Debug\xoaCSDL.Form1.resources
+D:\xoaCSDL\obj\x86\Debug\xoaCSDL.Properties.Resources.resources
+D:\xoaCSDL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\xoaCSDL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\xoaCSDL\bin\Debug\xoaCSDL.exe
+D:\xoaCSDL\bin\Debug\xoaCSDL.pdb
+D:\xoaCSDL\obj\x86\Debug\xoaCSDL.exe
+D:\xoaCSDL\obj\x86\Debug\xoaCSDL.pdb
